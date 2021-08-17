@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: white;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+canvas{
+    background: linear-gradient(60deg,red,orange,yellow,green,blue,indigo,violet,violet,indigo,blue,green,yellow,orange,red);
+}
